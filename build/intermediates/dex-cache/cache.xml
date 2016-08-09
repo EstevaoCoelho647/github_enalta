@@ -1,2 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_459c94149b5915d659db3b949d66a7ebf306cc35/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_4b5257675d0cab8044d9b3ebebfc171fec326ea1/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_7b351bf46fc098a438e5e0a56537a2aee72ddf22/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_7a02c29d87b2f45ecfda3881afb1b1bc70ea5654/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_b237ee07ce91928322a45757d15266fc1b14a8d1/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_2ffbb01d0daf61f46a520d6ebd24a0a491bc4448/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.2/8e31266a272ad25ac4c089734d93e8d811652c1f/jackson-databind-2.4.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.4.2_3d351182b50df8e8ac7a05dc47597515958fce9e/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.2/ceb72830d95c512b4b300a38f29febc85bdf6e4b/jackson-core-2.4.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.4.2_42da2cac061ecd25227c16fff4f55f6d9c4d9862/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e27e1fb89a7d6a279cf6c2595e5e5a586bcefdb6/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a24239aad5f73383d8121229acab98eb5641838c">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d3f1e3cb203d08be67fe5db2ea100e4764492c4/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.4.0_c1f3d155172f68ce06df2510d42d07d35a2d3b04/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_03f7732d870e836aa020bea879ea6d0ba00260f8/classes.dex" />
+    </item>
+    <item
+        jar="/home/estevao/Documentos/gitApi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4b1752dfab1c6c7aa527492468ea5bb0456d64fe">
+        <dex dex="/home/estevao/Documentos/gitApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb67f596787b4514fec2ca7533423f8bcc69fe59/classes.dex" />
+    </item>
+
+</items>
